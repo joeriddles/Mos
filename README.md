@@ -12,9 +12,6 @@
 
 A free & simple app to allow your mouse wheel to scroll smoothly on macOS.
 
-[中文](https://github.com/Caldis/Mos/blob/master/README.md) | [English](https://github.com/Caldis/Mos/blob/master/README.enUS.md)
-
-
 ## Homepage
 
 http://mos.caldis.me/
@@ -97,3 +94,5 @@ Copyright (c) 2018 Caldis rights reserved.
 [CC Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/)
 
 Do not upload Mos to the App Store.
+
+**This was forked from https://github.com/Caldis/Mos and changes have been made.**
